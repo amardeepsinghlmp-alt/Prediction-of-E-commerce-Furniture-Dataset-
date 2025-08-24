@@ -1,0 +1,3 @@
+---- Model Evaluation ----
+Linear Regression -> MSE: 135165.37, R²: 0.0179
+Random Forest     -> MSE: 343883.03, R²: -1.4987
